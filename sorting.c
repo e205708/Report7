@@ -37,7 +37,7 @@ int main(){
     int scores[SIZE] = {0, 60, 70, 100, 90};*/
 
     const int SIZE = 6;
-    int scores[6] = {100, 60, 70, 100, 90, 80};
+    int scores[SIZE] = {100, 60, 70, 100, 90, 80};
 
     int result[SIZE];
 
